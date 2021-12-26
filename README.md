@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-1/852656050103648257.png">
+    <img src="https://discord.c99.nl/widget/theme-2/921117469492539494.png">
 </p>
 
 <p align="center">
